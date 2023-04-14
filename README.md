@@ -2,6 +2,8 @@
 
 The Tactile Drone is a project in which we show the navigation of drones using contact information. In this repository, we agglomerate all repositories related to the tactile drone project.
 
+![DronePortrait](./images/drone-portrait.png)
+
 # How To Cite This
 
 TODO
@@ -15,8 +17,6 @@ A camera can fail in bad lighting conditions, a lidar provides noisy measurement
 In this work, we investigate how instead of avoiding obstacles, we can use contact to navigate safely in an environment where the above-mentioned challenges are present. For this, we designed and build an inherently compliant interaction tool inspired by the human finger. 
 It enables an Aerial System to safely establish contact with the environment and sense the magnitude and direction of the contact force. 
 Based on that, the local normal of the environment can be inferred and new reference poses can be generated that move the system along the environment.
-
-![DronePortrait](./images/drone-portrait.png)
 
 Generally speaking, the system aligns the interaction tool with the contact force and generates new reference positions a defined distance away, normal to the contact force vector and the world z-axis. 
 For details, please refer to the publication above (or the schematic below).
