@@ -22,7 +22,7 @@ Generally speaking, the system aligns the interaction tool with the contact forc
 For details, please refer to the publication above (or the schematic below).
 
 <p align="center">
-    <img src="./images/AMinContact.png" alt= “PlannerScheme” width="500">
+    <img src="./images/AMinContact.png" alt= “PlannerScheme” width="400">
 </p>
 
 
@@ -39,7 +39,7 @@ The rest of this repository is structured as follows:
     
     This repository contains all the software that is intended to be run off-board.
     This is mainly visualization modules of the system (rviz and plotting scripts) but also contains the Optitrack to ROS2 interface.
-    It also includes the calibration and system ID files which operate of data that is recorded onboard using `ros2` bag``. 
+    It also includes the calibration and system ID files which operate of data that is recorded onboard using ``ros2 bag``. 
 
 - ``tactile-drone-onboard``
 
