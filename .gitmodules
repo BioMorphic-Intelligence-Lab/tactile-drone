@@ -4,3 +4,6 @@
 [submodule "tactile-drone-onboard"]
 	path = tactile-drone-onboard
 	url = https://github.com/BioMorphic-Intelligence-Lab/tactile-drone-onboard
+[submodule "tactile-drone-design"]
+	path = tactile-drone-design
+	url = https://github.com/BioMorphic-Intelligence-Lab/tactile-drone-design
