@@ -28,7 +28,12 @@ For details, please refer to the publication above (or the schematic below).
 
 # Results
 
-TODO -> insert video here
+The system was tested on various wall configurations.
+See below for the resulting performance.
+
+Straight Wall | Angled Away Wall | Angled Towards Wall |
+:---:|:---:|:---:
+[<img src="./images/straight_wall_thumbnail.png" alt= “VideoStraightWall” width="400">](https://drive.google.com/file/d/1wb-oomzRinPbccY4n6zmMQCECdUvhsUz/view?usp=sharing) | [<img src="./images/angled_away_thumbnail.png" alt= “VideoAngledAwayWall” width="400">](https://drive.google.com/file/d/1mu5qWBLV5GjljpLQdXPlA3Y-cYLmAlfE/view?usp=share_link) | [<img src="./images/angled_away_thumbnail.png" alt= “VideoAngledAwayWall” width="400">](https://drive.google.com/file/d/1ICDdNCFxODMqksMb9ZQBc0hroavPmKRQ/view?usp=share_link)
 
 # Repository Structure
 
