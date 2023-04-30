@@ -35,6 +35,11 @@ Straight Wall | Angled Away Wall | Angled Towards Wall | Bigger Angled Towards W
 :---:|:---:|:---:|:---:
 [<img src="./images/straight_wall_thumbnail.png" alt= “VideoStraightWall” width="400">](https://drive.google.com/file/d/1wb-oomzRinPbccY4n6zmMQCECdUvhsUz/view?usp=sharing) | [<img src="./images/angled_away_thumbnail.png" alt= “VideoAngledAwayWall” width="400">](https://drive.google.com/file/d/1mu5qWBLV5GjljpLQdXPlA3Y-cYLmAlfE/view?usp=share_link) | [<img src="./images/angled_towards_thumbnail.png" alt= “VideoAngledTowardsWall” width="400">](https://drive.google.com/file/d/1ICDdNCFxODMqksMb9ZQBc0hroavPmKRQ/view?usp=share_link)| [<img src="./images/bigger_angled_towards_thumbnail.png" alt= “VideoBiggerAngledTowardsWall” width="400">](https://drive.google.com/file/d/1VwmuxHRx2dI9Sj_H0ANfp8pA5DEYi9PN/view?usp=share_link)
 
+
+Superimposed Altitude Commands | Combined Wall
+:---:|:---:
+[<img src="./images/superimposed_thumbnail.png" alt= “VideoSuperimposedAltitudeCommands” width="400">](https://drive.google.com/file/d/1IpwDYCMSlrDi99IpKvpPwwR4NIW9pJZF/view?usp=share_link) | [<img src="./images/wavy_wall_thumbnail.png" alt= “WawyWall” width="400">](https://drive.google.com/file/d/1-QrKH-Mo7ntR5Cm1EPXF7howRcNcXn4H/view?usp=share_link) 
+
 # Repository Structure
 
 This repository contains all the sub-repositories that are needed to reproduce the experiments. 
