@@ -10,7 +10,9 @@ TODO
 
 ## Explainer Video 
 
-[![ExplainerVideo](https://img.youtube.com/vi/vZeX1DXOrH8/0.jpg)](https://www.youtube.com/watch?v=vZeX1DXOrH8E)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=vZeX1DXOrH8E"><img src="https://img.youtube.com/vi/vZeX1DXOrH8/0.jpg" alt="ExplainerVideo"></a>
+</div>
 
 # Background
 
