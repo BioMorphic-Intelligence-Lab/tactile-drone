@@ -11,7 +11,7 @@ TODO
 ## Explainer Video 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=vZeX1DXOrH8"><img src="https://markdown-videos.deta.dev/youtube/vZeX1DXOrH8" alt="ExplainerVideo"></a>
+  <a href="https://youtu.be/mqkQ5mHpCkM"><img src="https://markdown-videos.deta.dev/youtube/mqkQ5mHpCkM" alt="ExplainerVideo"></a>
 </div>
 
 # Background
