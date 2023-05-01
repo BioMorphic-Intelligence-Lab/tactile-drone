@@ -9,9 +9,8 @@ The Tactile Drone is a project in which we show the navigation of drones using c
 TODO
 
 ## Explainer Video 
-<p align="center">
-    [<img src="https://img.youtube.com/vi/vZeX1DXOrH8/0.jpg" alt= “ExplainerVideo” width="600">](https://www.youtube.com/watch?v=vZeX1DXOrH8)
-</p>
+
+[![ExplainerVideo](https://img.youtube.com/vi/vZeX1DXOrH8/0.jpg)](https://www.youtube.com/watch?v=vZeX1DXOrH8E)
 
 # Background
 
