@@ -4,12 +4,14 @@ The Tactile Drone is a project in which we show the navigation of drones using c
 
 ![DronePortrait](./images/drone-portrait.png)
 
-<p align="center">
-    <img src="https://img.youtube.com/vi/vZeX1DXOrH8/0.jpg" alt= “ExplainerVideo” width="400">](https://www.youtube.com/watch?v=vZeX1DXOrH8)
-</p>
 # How To Cite This
 
 TODO
+
+## Explainer Video 
+<p align="center">
+    [<img src="https://img.youtube.com/vi/vZeX1DXOrH8/0.jpg" alt= “ExplainerVideo” width="600">](https://www.youtube.com/watch?v=vZeX1DXOrH8)
+</p>
 
 # Background
 
