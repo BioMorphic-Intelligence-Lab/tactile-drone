@@ -11,7 +11,7 @@ To Be Determined
 ## Explainer Video 
 
 <div align="center">
-  <a href="https://youtu.be/mqkQ5mHpCkM"><img src="https://markdown-videos.deta.dev/youtube/mqkQ5mHpCkM" alt="ExplainerVideo"></a>
+  <a href="https://youtu.be/mqkQ5mHpCkM"><img src="https://img.youtube.com/vi/mqkQ5mHpCkM" alt="ExplainerVideo"></a>
 </div>
 
 # Background
