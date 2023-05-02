@@ -6,7 +6,7 @@ The Tactile Drone is a project in which we show the navigation of drones using c
 
 # How To Cite This
 
-TODO
+To Be Determined
 
 ## Explainer Video 
 
