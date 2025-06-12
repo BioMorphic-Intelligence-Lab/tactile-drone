@@ -6,7 +6,15 @@ The Tactile Drone is a project in which we show the navigation of drones using c
 
 # How To Cite This
 
-To Be Determined
+```
+@article{bredenbeck2024embodying,
+  title={Embodying Compliant Touch on Drones for Aerial Tactile Navigation},
+  author={Bredenbeck, Anton and Della Santina, Cosimo and Hamaza, Salua},
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 ## Explainer Video 
 
